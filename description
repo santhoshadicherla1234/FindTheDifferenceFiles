@@ -1,0 +1,7 @@
+In this project,the Algorithm is implemented in hashmap() with two
+dictionaries and one dictionary with for loop statements. . Initially,edge
+cases are assumptioned and test cases are evaluated. . The time and space
+complexities are same for both implementations.but,the efficiency is more
+with single dictionary than two dictionaries in hashmap().
+
+  TO GET CLEAR VIEW OF CODE DOWNLOAD THE ZIP FILE OR GO THROUGH CODE FROM README
